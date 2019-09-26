@@ -1,0 +1,50 @@
+export default {
+    home_nav: "Casa",
+    services_nav: "Servicios",
+    booked_nav: "Reservados",
+    profile_nav: "Perfil",
+    greeting_text: "Bienvenidos a 'Nails2Go'",
+    greeting_content: "Extravagante, amable servicio de uñas a un precio asequible.",
+    greeting_btn: "Empezar",
+    or: "O",
+    hi: "Hola",
+    signin_title: "Inicia sesión",
+    email: "Email",
+    password: "Contraseña",
+    login: "Iniciar sesión",
+    google_loggin: "Iniciar sesión con google",
+    not_empty_noti: "Por favor complete la información",
+  
+    signup_title: "Registro",
+    firstname: "Nombre",
+    lastname: "Nombre Pasado",
+    google_signup: "Firme para arriba con la cuenta de Google",
+  
+    hot_services: "Servicios Calientes",
+    watch_more: "Vea más",
+    ranking_member: "Rango de miembros",
+    point_text: "Punto",
+    hello: "Hola",
+    details: "Detalles",
+    
+    book: "Orden",
+    booked: "Ordenó",
+    booking: "Ordenar",
+  
+    services_in_cart: "Servicio en el carrito",
+    empty_cart:"El carrito esta vacio",
+    cart: "El carrito",
+    amount: "Cantidad",
+    tip: "Consejos",
+    total: "Total",
+    choose_date: "Elija la fecha",
+  
+    history: "Historia",
+    point: "Punto",
+    settings: "Ajustes",
+    logout: "Cerrar sesión",
+    language: "Idioma",
+    search: "Buscar",
+    lang: "Spanish"  
+  };
+  
